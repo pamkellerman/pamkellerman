@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pamkellerman.
+- 👀  I’m eager to work for a company that values my passion for continuous learning, recognizes my strong work ethic, and appreciates the diverse skills I can bring to the team.
+- 🌱 I’m actively enhancing my skills in data analysis with tools like Excel, Access, Power Queries, Power BI, SQL, Python, and Tableau.
+- 💞 I’m excited to collaborate on innovative projects in the data analysis field.
+- 📫 Feel free to contact me at kellermanpam@gmail.com or connect on LinkedIn at www.linkedin.com/in/pam-kellerman.
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I have a passion for drawing, true crime documentaries, Mickey Mouse, my dog Gizmo, and my cat Grayson.
